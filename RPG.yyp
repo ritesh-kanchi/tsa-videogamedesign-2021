@@ -92,6 +92,7 @@
     {"id":{"name":"sFrames","path":"sprites/sFrames/sFrames.yy",},"order":0,},
     {"id":{"name":"oText","path":"objects/oText/oText.yy",},"order":4,},
     {"id":{"name":"sSlimeAttack","path":"sprites/sSlimeAttack/sSlimeAttack.yy",},"order":1,},
+    {"id":{"name":"sBarrier","path":"sprites/sBarrier/sBarrier.yy",},"order":4,},
     {"id":{"name":"sItems","path":"sprites/sItems/sItems.yy",},"order":1,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":1,},
     {"id":{"name":"SlimeFunctions","path":"scripts/SlimeFunctions/SlimeFunctions.yy",},"order":4,},
